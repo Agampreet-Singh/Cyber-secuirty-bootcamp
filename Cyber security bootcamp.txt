@@ -1,0 +1,13 @@
+Cyber security bootcamp
+
+1. Introduction to cyber security and ethical hacking
+2. Cyber attacks
+3. Prerequirements skills
+4. basic linux command 
+5. Network Scanning theory 
+6. Network Scanning Practical 
+7. Roadmap to Ethical hacking and cyber security 
+8. Career Guiedness 
+9. Certifications beginner to advanced level 
+10. Good luck for the opportunity
+
