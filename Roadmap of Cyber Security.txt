@@ -1,0 +1,69 @@
+Roadmap of Cyber Security and Ethical Hacking 
+
+1. Prerequirements Skills
+
+. Computer Software Knowladge ( MBR , GPT , 64bit , 32bit , X64 - X32 , DRIVERS , COMPILER | include basic hardwares ( SSD , HDD , CHIPSET , BIOS )
+
+. Networking knowladge ( TCP|IP , NETWORK PORTS AND PROTOCOLS , SWITCH HUB BRIDGE , UNICAST BROADCAST MULTICAST , IP ADDRESSING , SUBNETTING , OSI MODEL | TCP MODEL )
+
+. Linux 
+
+. OS 
+
+. Basic Programming or Scripting language ( PYTHON , BASH )
+
+2. Start Learn Hacking FROM NOOB TO HACKER 
+
+. Module 1 - Information Security Fundamentals
+
+. Module 2 - Ethical Hacking Fundamentals
+
+. Module 3 - Information Security Threats and Vulnerability Assessment
+
+LAB MANUAL OF NETWORK SCANNING AND VULNERABILITY ASSESSMENT 
+
+. Module 4 - Password Cracking Techniques and Countermeasures
+
+LAB MANUAL OF PASSWORD CRACKING 
+
+. Module 5 - Social Engineering Techniques and Countermeasures
+
+. Module 6 - Network Level Attacks and Countermeasures
+
+. Module 7 - Web Application Attacks and Countermeasures
+
+LAB MANUAL OF WEB APPLICATION ATTACKS 
+
+. Module 8 - Wireless Attacks and Countermeasures
+
+. Module 9 - Mobile Attacks and Countermeasures
+
+. Module 10 - IOT & OT Attacks and Countermeasures
+
+. Module 11 - Cloud Computing Threats and Countermeasures
+
+. Module 12 - Penetration Testing Metholodgy
+
+LAB MANUAL PENETRATION TESTING 
+
+. Module 13 - Cyber Attacks Practical
+
+. PRACTICE LAB REAL WORLD ETHICAL HACKING AND PENETRATION TESTING 
+
+. EXAM ( NOT ADDITIONAL FEE ) FREE OF COST 
+
+. CERTIFICATION EHE ( ETHICAL HACKING ESSENTIAL ) BY EC-COUNCIL
+
+. BOOK PROVIDE OF ETHICAL HACKING 
+
+3. Certifications
+
+. CEH ( CERTIFIED ETHICAL HACKER ) by EC-COUNCIL
+. OSCP ( OFFENSIVE SECURITY CERTIFIED PROFESSIONAL ) 
+. EHE ( ETHICAL HACKING ESSENTIAL ) by EC-COUNCIL = COMPLETE 
+
+4. Create Professional Linkedin Profile
+
+5. Internships
+
+
